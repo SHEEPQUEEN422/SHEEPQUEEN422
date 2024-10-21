@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Helen Junyi
+- 👋 Hi, I’m Helen Hui
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning deep learning
 - 📫 How to reach me: hjunyi@ucsd.edu
