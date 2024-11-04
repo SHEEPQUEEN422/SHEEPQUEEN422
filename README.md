@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning deep learning
 - 📫 How to reach me: hjunyi@ucsd.edu
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: love playing LOL,TFT
+- ⚡ Fun fact: like playing LOL,TFT
