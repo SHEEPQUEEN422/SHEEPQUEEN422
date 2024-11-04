@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Helen Hui
 - 👀 I’m interested in data science
-- 🌱 I’m currently learning deep learning
+- 🌱 I’m currently learning Econometrics,Deep learning,JavaScript and R
 - 📫 How to reach me: hjunyi@ucsd.edu
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: former model
