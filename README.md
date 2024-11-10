@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning Econometrics, Deep learning, JavaScript, R and DialogFlow
 - 📫 How to reach me: hjunyi@ucsd.edu
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: former model
+- ⚡ Fun fact: Former model
