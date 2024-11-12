@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Helen Hui
 - 👀 I’m interested in data science
-- 🌱 I’m currently learning Econometrics, Deep learning, JavaScript, R and DialogFlow
+- 🌱 I’m currently learning Econometrics, Deep learning, JavaScript, R , Pytorch and DialogFlow
 - 📫 How to reach me: hjunyi@ucsd.edu
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: Former model
